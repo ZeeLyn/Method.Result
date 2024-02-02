@@ -1,4 +1,4 @@
-# Method.Result
+# Method.Return.Results 
  
 It returns an object indicating success or failure of an operation instead of throwing/using exceptions.
 
