@@ -2,6 +2,11 @@
  
 It returns an object indicating success or failure of an operation instead of throwing/using exceptions.
 
+# Packages & Status
+
+| Packages                         | NuGet                                                                                                                                               |Note|
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |---|
+| Method.Return.Results         | [![NuGet package](https://buildstats.info/nuget/Method.Return.Results )](https://www.nuget.org/packages/Method.Return.Results )             
 
 ```csharp
 public Result<int> Create1(string name, string address)
